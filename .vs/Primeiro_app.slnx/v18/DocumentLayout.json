@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "Primeiro_app\\Views\\Aluno\\Resultado.cshtml",
               "ToolTip": "C:\\Users\\RianRamiroDeAraujo\\Desktop\\Primeiro_app\\Primeiro_app\\Views\\Aluno\\Resultado.cshtml",
               "RelativeToolTip": "Primeiro_app\\Views\\Aluno\\Resultado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-18T20:41:31.551Z",
               "EditorCaption": ""
